@@ -10,11 +10,30 @@ My path in tech has been a continuous evolution. I started out as a Data Analyst
 ### 🛠️ What I Do
 I leverage my extensive analytical background to design efficient, automated, and resilient systems. Having completed the TeSA Cloud Engineering program, I am currently applying my skills through concurrent DevOps engagements with Springer Capital and Davine Technology, where I focus heavily on CI/CD pipelines and deployment infrastructure.
 
-**My Core Stack & Tools:**
-*   **Cloud Platforms:** AWS, Google Cloud Platform (GCP)
-*   **Infrastructure & Containers:** Terraform, Kubernetes, Docker, Linux, Nginx
-*   **CI/CD & Automation:** GitHub Actions, Git
-*   **Programming:** Go, Python
+### 🛠️ Tech Stack & Tools
+
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**DevOps & Containers:**
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Languages:**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ooseni&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooseni&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
 
 ### 🌱 Current Projects & Research
 *   Architecting and deploying robust CI/CD pipelines for cloud infrastructure.

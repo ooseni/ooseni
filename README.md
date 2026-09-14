@@ -31,8 +31,8 @@ I leverage my extensive analytical background to design efficient, automated, an
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ooseni&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooseni&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ooseni&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ooseni&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ### 🌱 Current Projects & Research

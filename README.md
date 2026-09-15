@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Oseni Sakariyau Oluwadamilare (Dami)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ooseni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Cloud+DevOps+Engineer;Infrastructure+as+Code;Continuous+Integration+%26+Deployment" alt="Typing SVG" /></a>
 
@@ -28,10 +29,19 @@ I leverage my extensive analytical background to design efficient, automated, an
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ooseni&theme=radical&no-frame=true&row=1&column=7" alt="ooseni trophies" />
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ooseni&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ooseni&theme=radical&hide_border=true" width="48%" />
+</div>
+<br/>
+<div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ooseni&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 

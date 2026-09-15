@@ -29,10 +29,7 @@ I leverage my extensive analytical background to design efficient, automated, an
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ooseni&theme=radical&no-frame=true&row=1&column=7" alt="ooseni trophies" />
-</div>
+
 
 ### 📊 GitHub Stats
 

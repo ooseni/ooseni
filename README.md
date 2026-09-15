@@ -45,6 +45,16 @@ I leverage my extensive analytical background to design efficient, automated, an
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ooseni&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ooseni/ooseni/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ooseni/ooseni/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ooseni/ooseni/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ### 🌱 Current Projects & Research
 *   Architecting and deploying robust CI/CD pipelines for cloud infrastructure.
 *   Researching and designing a decision-support software application for Fantasy Premier League (FPL) squad management.

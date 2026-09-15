@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Oseni Sakariyau Oluwadamilare (Dami)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ooseni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Cloud+DevOps+Engineer;Infrastructure+as+Code;Continuous+Integration+%26+Deployment" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=650&lines=Cloud+DevOps+Engineer;Infrastructure+as+Code;Continuous+Integration+%26+Deployment" alt="Typing SVG" /></a>
 
 I am a **Cloud DevOps Engineer** based in Lagos, Nigeria, dedicated to building scalable infrastructure, automating deployments, and mastering cloud-native technologies. 
 

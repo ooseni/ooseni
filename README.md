@@ -5,6 +5,8 @@
 
 I am a **Cloud DevOps Engineer** based in Lagos, Nigeria, dedicated to building scalable infrastructure, automating deployments, and mastering cloud-native technologies. 
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ooseni.github.io-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white)](https://ooseni.github.io/)
+
 ### 🚀 My Tech Journey
 My path in tech has been a continuous evolution. I started out as a Data Analyst, transitioned into Data Science (interning at Hamoye), and explored Machine Learning & AI before discovering my true passion: **Cloud DevOps**. Today, DevOps is my sole focus. It is the field where I am actively specializing, building systems, and pursuing absolute mastery.
 
@@ -60,6 +62,7 @@ I leverage my extensive analytical background to design efficient, automated, an
 ### 📫 Let's Connect!
 I am always open to collaborating on DevOps tools, open-source infrastructure projects, or discussing cloud architecture. Feel free to reach out:
 
+*   **Portfolio:** [ooseni.github.io](https://ooseni.github.io/)
 *   **LinkedIn:** [sakariyau-oseni](https://www.linkedin.com/in/sakariyau-oseni-599106bd/)
 *   **Email:** [drey199572@gmail.com](mailto:drey199572@gmail.com) | [oseni_sakariyau0008@yahoo.com](mailto:oseni_sakariyau0008@yahoo.com)
 *   **Phone:** +234 810 674 4103

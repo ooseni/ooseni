@@ -47,12 +47,12 @@ I leverage my extensive analytical background to design efficient, automated, an
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ooseni&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=ooseni&theme=radical&hide_border=true" width="48%" />
+  <img alt="GitHub stats for ooseni" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ooseni&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img alt="GitHub contribution streak for ooseni" src="https://streak-stats.demolab.com/?user=ooseni&theme=radical&hide_border=true" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ooseni&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img alt="Most used languages in ooseni's repositories" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ooseni&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ### 🐍 Contribution Graph
@@ -76,5 +76,4 @@ I am always open to collaborating on DevOps tools, open-source infrastructure pr
 *   **Portfolio:** [ooseni.github.io](https://ooseni.github.io/)
 *   **LinkedIn:** [sakariyau-oseni](https://www.linkedin.com/in/sakariyau-oseni-599106bd/)
 *   **Email:** [drey199572@gmail.com](mailto:drey199572@gmail.com) | [oseni_sakariyau0008@yahoo.com](mailto:oseni_sakariyau0008@yahoo.com)
-*   **Phone:** +234 810 674 4103
 *   **GitHub:** [@ooseni](https://github.com/ooseni)

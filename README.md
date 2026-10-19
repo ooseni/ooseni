@@ -18,6 +18,7 @@ I leverage my extensive analytical background to design efficient, automated, an
 | Project | What it shows |
 |---|---|
 | [CertWatch](https://github.com/ooseni/certwatch) | Serverless SSL/TLS certificate expiry monitor on AWS: SAM, Lambda, DynamoDB, EventBridge and SNS |
+| [TeSA Cloud Engineering](https://github.com/ooseni/TESA-Cloud-Engineering) | 14 modules rebuilt and tested after the cohort: Terraform through GitHub Actions with OIDC, network design studies, and a hybrid payments-gateway capstone on DynamoDB, Lambda and Amazon MSK |
 | [MinIO to Silo migration](https://github.com/ooseni/minio-silo-migration) | Springer Capital internship: zero-downtime object storage migration by bucket replication, with failure injection, parity checks and benchmarks |
 | [DevOps pipeline](https://github.com/ooseni/devops-intern-final) | End-to-end pipeline: Linux scripting, Docker, GitHub Actions CI/CD, Nomad, Grafana Loki and MLflow |
 | [GPU training pipeline](https://github.com/ooseni/handwriting-recognition-gpu-pipeline) | Fine-tuning vision-language models on AWS EC2 and Google Compute Engine GPUs |

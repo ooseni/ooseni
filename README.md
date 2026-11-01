@@ -17,6 +17,7 @@ I leverage my extensive analytical background to design efficient, automated, an
 
 | Project | What it shows |
 |---|---|
+| [AI-Powered E-Commerce DevOps Platform](https://github.com/ooseni/ai-ecommerce-devops) | Internship capstone, lab scale: a 10-stage Jenkins pipeline takes a pull request through security gates onto Kubernetes on AWS, with Terraform, Ansible, Helm, Prometheus, Grafana, ELK and a rule-based incident analyzer. Destroyed and rebuilt from code, with the shop working 248 seconds after Terraform finished |
 | [CertWatch](https://github.com/ooseni/certwatch) | Serverless SSL/TLS certificate expiry monitor on AWS: SAM, Lambda, DynamoDB, EventBridge and SNS |
 | [TeSA Cloud Engineering](https://github.com/ooseni/TESA-Cloud-Engineering) | 14 modules rebuilt and tested after the cohort: Terraform through GitHub Actions with OIDC, network design studies, and a hybrid payments-gateway capstone on DynamoDB, Lambda and Amazon MSK |
 | [MinIO to Silo migration](https://github.com/ooseni/minio-silo-migration) | Springer Capital internship: zero-downtime object storage migration by bucket replication, with failure injection, parity checks and benchmarks |

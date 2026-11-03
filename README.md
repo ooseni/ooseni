@@ -76,6 +76,6 @@ I leverage my extensive analytical background to design efficient, automated, an
 I am always open to collaborating on DevOps tools, open-source infrastructure projects, or discussing cloud architecture. Feel free to reach out:
 
 *   **Portfolio:** [ooseni.github.io](https://ooseni.github.io/)
-*   **LinkedIn:** [sakariyau-oseni](https://www.linkedin.com/in/sakariyau-oseni-599106bd/)
+*   **LinkedIn:** [sakariyau-oseni](https://www.linkedin.com/in/sakariyau-oseni/)
 *   **Email:** [drey199572@gmail.com](mailto:drey199572@gmail.com) | [oseni_sakariyau0008@yahoo.com](mailto:oseni_sakariyau0008@yahoo.com)
 *   **GitHub:** [@ooseni](https://github.com/ooseni)

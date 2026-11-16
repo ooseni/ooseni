@@ -11,7 +11,7 @@ I am a **Cloud DevOps Engineer** based in Lagos, Nigeria, dedicated to building 
 My path in tech has been a continuous evolution. I started out as a Data Analyst, transitioned into Data Science (interning at Hamoye), and explored Machine Learning & AI before discovering my true passion: **Cloud DevOps**. Today, DevOps is my sole focus. It is the field where I am actively specializing, building systems, and pursuing absolute mastery.
 
 ### 🛠️ What I Do
-I leverage my extensive analytical background to design efficient, automated, and resilient systems. Having completed the TeSA Cloud Engineering program, I am currently applying my skills through concurrent DevOps engagements with Springer Capital and Davine Technology, where I focus heavily on CI/CD pipelines and deployment infrastructure.
+I leverage my extensive analytical background to design efficient, automated, and resilient systems. Having completed the TeSA Cloud Engineering program and a three-month DevOps internship at Davine Technologies (August to October 2026), I am currently applying my skills as a DevOps intern at Springer Capital, where I focus heavily on CI/CD pipelines and deployment infrastructure.
 
 ### 📌 Featured Projects
 
@@ -23,8 +23,8 @@ I leverage my extensive analytical background to design efficient, automated, an
 | [MinIO to Silo migration](https://github.com/ooseni/minio-silo-migration) | Springer Capital internship: zero-downtime object storage migration by bucket replication, with failure injection, parity checks and benchmarks |
 | [DevOps pipeline](https://github.com/ooseni/devops-intern-final) | End-to-end pipeline: Linux scripting, Docker, GitHub Actions CI/CD, Nomad, Grafana Loki and MLflow |
 | [GPU training pipeline](https://github.com/ooseni/handwriting-recognition-gpu-pipeline) | Fine-tuning vision-language models on AWS EC2 and Google Compute Engine GPUs |
-| [Observability lab](https://github.com/ooseni/davine-week8-Monitoring-Logging-Observability) | Davine Technology internship: Prometheus, Grafana and Node Exporter, with CPU alerting and an incident walkthrough |
-| [Terraform and Ansible](https://github.com/ooseni/davine-week6-IAc) | Davine Technology internship: infrastructure as code and configuration management |
+| [Observability lab](https://github.com/ooseni/davine-week8-Monitoring-Logging-Observability) | Davine Technologies internship: Prometheus, Grafana and Node Exporter, with CPU alerting and an incident walkthrough |
+| [Terraform and Ansible](https://github.com/ooseni/davine-week6-IAc) | Davine Technologies internship: infrastructure as code and configuration management |
 
 ### 🛠️ Tech Stack & Tools
 

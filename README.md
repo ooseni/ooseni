@@ -10,7 +10,7 @@ I am a **Cloud DevOps Engineer** based in Lagos, Nigeria, dedicated to building 
 My path in tech has been a continuous evolution. I started out as a Data Analyst, transitioned into Data Science (interning at Hamoye), and explored Machine Learning & AI before discovering my true passion: **Cloud DevOps**. Today, DevOps is my sole focus. It is the field where I am actively specializing, building systems, and pursuing absolute mastery.
 
 ### 🛠️ What I Do
-I leverage my extensive analytical background to design efficient, automated, and resilient systems. Having completed the TeSA Cloud Engineering program and a three-month DevOps internship at Davine Technologies (August to October 2026), I am currently applying my skills as a DevOps intern at Springer Capital, where I focus heavily on CI/CD pipelines and deployment infrastructure.
+I leverage my extensive analytical background to design efficient, automated, and resilient systems. Having completed the TeSA Cloud Engineering program and a three-month DevOps internship at Davine Technologies (August to November 2026), I am currently applying my skills as a DevOps intern at Springer Capital, where I focus heavily on CI/CD pipelines and deployment infrastructure.
 
 ### 📌 Featured Projects
 

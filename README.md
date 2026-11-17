@@ -22,6 +22,7 @@ I leverage my extensive analytical background to design efficient, automated, an
 | [MinIO to Silo migration](https://github.com/ooseni/minio-silo-migration) | Springer Capital internship: zero-downtime object storage migration by bucket replication, with failure injection, parity checks and benchmarks |
 | [DevOps pipeline](https://github.com/ooseni/devops-intern-final) | End-to-end pipeline: Linux scripting, Docker, GitHub Actions CI/CD, Nomad, Grafana Loki and MLflow |
 | [GPU training pipeline](https://github.com/ooseni/handwriting-recognition-gpu-pipeline) | Fine-tuning vision-language models on AWS EC2 and Google Compute Engine GPUs |
+| [Jenkins CI/CD to Kubernetes](https://github.com/ooseni/davine-week9-jenkins-cicd-deployments) | Davine Technologies internship: Jenkins as code tests, scans and pushes a Flask app to Amazon ECR, then deploys it to Kubernetes as a rolling or blue-green release. A broken release rolled back on its own with 0 of 297 requests failing |
 | [Observability lab](https://github.com/ooseni/davine-week8-Monitoring-Logging-Observability) | Davine Technologies internship: Prometheus, Grafana and Node Exporter, with CPU alerting and an incident walkthrough |
 | [Terraform and Ansible](https://github.com/ooseni/davine-week6-IAc) | Davine Technologies internship: infrastructure as code and configuration management |
 
